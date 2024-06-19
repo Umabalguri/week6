@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Anusha",
+        "work":"Assistent professor",
+        "password":"123"
+    }
+    ,
+    {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+        "name":"Radha",
+        "work":"Assistent professor",
+        "password":"456"
+    }
+    ,
+    {
+        "name":"Krishna",
+        "work":"Assistent professor",
+        "password":"789"
+    }
+]
